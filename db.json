@@ -1,0 +1,44 @@
+{
+  "productList": [
+    {
+      "productName": "mango",
+      "category": "fruits",
+      "freshness": "Second Hand",
+      "price": 300,
+      "noOfitems": 35,
+      "location": "chennai",
+      "date": "2023-02-13T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "apple",
+      "category": "fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "noOfitems": 50,
+      "location": "bangalore",
+      "date": "2023-02-13T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "orange",
+      "category": "fruits",
+      "freshness": "Brand New",
+      "price": 350,
+      "noOfitems": 25,
+      "location": "chhennai",
+      "date": "2023-02-15T18:30:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
